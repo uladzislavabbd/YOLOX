@@ -4,6 +4,15 @@
 
 COCO_CLASSES = (
     "person",
+    "bicycle"
+)
+
+
+
+
+"""
+COCO_CLASSES = (
+    "person",
     "bicycle",
     "car",
     "motorcycle",
@@ -84,3 +93,5 @@ COCO_CLASSES = (
     "hair drier",
     "toothbrush",
 )
+
+"""
