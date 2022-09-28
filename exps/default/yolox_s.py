@@ -5,6 +5,8 @@
 import os
 
 from yolox.exp import Exp as MyExp
+import os
+os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 
 class Exp(MyExp):
